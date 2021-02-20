@@ -1,0 +1,25 @@
+
+.container{
+    width: 100%;
+    border-top: 20px;
+    padding: 50px;
+}
+.container h2{
+    margin-left: 400px;
+    padding: 20px;
+    border: 1px solid black;
+    width: 40%;
+    text-align: center;
+    justify-content: center;
+    background-color: red;
+}
+img{
+    background-color:white;
+    width: 100%;
+    margin-right: 450px;
+    padding: 40px;    
+}
+.img{
+    background-image: url("OIP.jpg");
+    height: 100%;
+}

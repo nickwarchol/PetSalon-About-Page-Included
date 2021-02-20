@@ -1,0 +1,31 @@
+main{
+    padding: 10px;
+    background-color: gray;
+    background-image: radial-gradient( gray, gray, white);
+    height: 40vh;
+    position: relative;
+}
+.intro{
+    margin-left: 1200px;
+    font-size: 60px;
+    color: whitesmoke;
+    margin-top: 70px;
+    font-family:fantasy;
+    font-style:italic;
+}
+img{
+    width:600px;
+    height: 310px;
+    padding: 10px;
+    right:400px;
+    left: 300px;
+    image-resolution:inherit;
+    border-radius: 70px;
+    margin-bottom: 40px;
+    position: relative;
+    bottom: 120px;
+   
+}
+h2{
+    font-size: 30px;
+}
